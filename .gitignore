@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local vector DB — regenerate with `python ingest.py`
+chroma_db/
+
+# Secrets / OAuth tokens
+.env
+*.token
+credentials*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

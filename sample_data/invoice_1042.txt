@@ -1,0 +1,21 @@
+INVOICE #1042
+Date: 2026-08-14
+Vendor: Apex Office Supplies LLC
+Client: Northwind Consulting FZE
+
+Bill To: Northwind Consulting FZE, Dubai, UAE
+Terms: Net 30
+
+Line Items:
+1. Ergonomic Office Chairs (x6) ..................... $1,740.00
+2. Standing Desks (x3) ................................ $2,100.00
+3. Monitor Arms (x6) .................................... $540.00
+4. Shipping & Handling .................................. $180.00
+
+Subtotal: $4,560.00
+VAT (5%): $228.00
+TOTAL DUE: $4,788.00
+
+Due Date: 2026-09-13
+Payment Status: UNPAID
+Notes: Second reminder sent 2026-09-05. Client requested extension to 2026-09-20.

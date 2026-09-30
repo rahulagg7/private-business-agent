@@ -1,0 +1,27 @@
+From: accounts@apexofficesupplies.com
+To: finance@northwindconsulting.ae
+Date: 2026-09-05
+Subject: Payment reminder - Invoice #1042
+
+Hi team,
+
+This is a friendly reminder that Invoice #1042 for $4,788.00 is due on 2026-09-13.
+Please let us know if you need the payment terms extended.
+
+Best,
+Apex Office Supplies Accounts Team
+
+---
+
+From: finance@northwindconsulting.ae
+To: accounts@apexofficesupplies.com
+Date: 2026-09-06
+Subject: RE: Payment reminder - Invoice #1042
+
+Hi,
+
+Thanks for the reminder. We'd like to request an extension to 2026-09-20 due to a
+temporary cash flow gap while we wait on a client payment ourselves.
+
+Regards,
+Northwind Finance

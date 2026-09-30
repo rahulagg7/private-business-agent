@@ -1,0 +1,15 @@
+SERVICE AGREEMENT SUMMARY
+Vendor: CloudHost Data Services
+Client: Northwind Consulting FZE
+Effective Date: 2026-01-01
+Term: 12 months, auto-renews unless cancelled with 30 days notice
+
+Key Terms:
+- Monthly hosting fee: $890.00, billed on the 1st of each month
+- Payment terms: Net 15
+- Late payment penalty: 1.5% per month on overdue balance
+- Cancellation notice period: 30 days written notice before renewal date
+- Renewal Date: 2027-01-01
+- Support SLA: 4-hour response time for priority tickets
+
+Contact: renewals@cloudhostdata.com

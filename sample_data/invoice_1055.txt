@@ -1,0 +1,21 @@
+INVOICE #1055
+Date: 2026-09-01
+Vendor: CloudHost Data Services
+Client: Northwind Consulting FZE
+
+Bill To: Northwind Consulting FZE, Dubai, UAE
+Terms: Net 15
+
+Line Items:
+1. Cloud Server Hosting (Sept 2026) ................... $890.00
+2. Backup Storage (2TB) ................................. $120.00
+3. Support Plan (Priority) .............................. $250.00
+
+Subtotal: $1,260.00
+VAT (5%): $63.00
+TOTAL DUE: $1,323.00
+
+Due Date: 2026-09-16
+Payment Status: PAID
+Payment Date: 2026-09-10
+Payment Method: Bank Transfer
