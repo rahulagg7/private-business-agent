@@ -6,16 +6,6 @@ APIs (QBO Bill/Invoice objects, Gmail message fields) so agent.py won't need cha
 when these are replaced with real calls.
 """
 from datetime import date
-
-
-# QuickBooks Online (mock)
-#
-# TODO real integration:
-#   - OAuth2 via Intuit Developer, keep refresh token in keychain
-#   - base url: https://quickbooks.api.intuit.com/v3/company/{realmId}/
-#   - endpoints: /query, /invoice, /bill, /customer
-
-# bills Northwind owes its vendors (matches sample_data/)
 _MOCK_INVOICES = [
     {
         "Id": "1042",
@@ -58,12 +48,6 @@ def get_cash_position_summary():
         "invoice_count_outstanding": sum(1 for i in _MOCK_INVOICES if i["Balance"] > 0),
         "as_of": date.today().isoformat(),
     }
-
-
-# Email (mock)
-#
-# TODO real integration:
-#   - Gmail API or Microsoft Graph, OAuth2, read-only scope to start
 
 _MOCK_EMAILS = [
     {
